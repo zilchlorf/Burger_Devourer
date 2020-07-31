@@ -1,0 +1,30 @@
+{
+  "name": "burger_devourer",
+  "version": "1.0.0",
+  "description": "Make a list of what you want to eat and then press the \"devour it\" button when you're done eating.  It will be recorded in the database and displayed on the page.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zilchlorf/Burger_Devourer.git"
+  },
+  "keywords": [
+    "sql",
+    "express",
+    "handlebars"
+  ],
+  "author": "Max Edmonds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zilchlorf/Burger_Devourer/issues"
+  },
+  "homepage": "https://github.com/zilchlorf/Burger_Devourer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
