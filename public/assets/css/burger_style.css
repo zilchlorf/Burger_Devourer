@@ -1,0 +1,33 @@
+header.page-header {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: black;
+  display: flex;
+  height: 120px;
+  min-width: 120px;
+ text-indent:45rem;
+  color: #fff;
+  text-shadow: rgb(121, 11, 11) 0 0 .2em;
+ font-weight: bolder;
+ align-content: center;
+}
+
+.container {
+ 
+  align-content: center
+
+}
+
+#addburger {
+ 
+}
+#burgerPic {
+  background-image: url(../img/burger.png);
+}
+
+.col-md-4 {
+
+}
+
+.burgerList {
+ font-family: 'Times New Roman', Times, serif;
+}
