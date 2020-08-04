@@ -1,3 +1,3 @@
 INSERT INTO burgers (name) VALUES ('Funky Chunk Burger');
-INSERT INTO burgers (name) VALUES ('Hamish Burgler');
-INSERT INTO burgers (name) VALUES ('Sour Milk Burger');
+INSERT INTO burgers (name) VALUES ('Hamish Burgler Burger');
+INSERT INTO burgers (name) VALUES ('Fresh and Clean Burger');
