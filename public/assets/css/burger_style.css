@@ -12,20 +12,15 @@ header.page-header {
 }
 
 .container {
- 
+background-color: bisque;
   align-content: center
 
 }
-
-#addburger {
- 
-}
-#burgerPic {
+body {
   background-image: url(../img/burger.png);
 }
-
-.col-md-4 {
-
+li {
+ font-size: 1.75rem;
 }
 
 .burgerList {
