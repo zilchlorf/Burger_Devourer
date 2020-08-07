@@ -1,5 +1,8 @@
 
 # Burger Devourer
+Link to live application: https://agile-ocean-45821.herokuapp.com 
+Link to my portfolio: https://zilchlorf.github.io/Max-William-Edmonds-Portfolio/
+
 Table of Contents:
         
 - [Project_Description](#Project_Description)
@@ -9,6 +12,7 @@ Table of Contents:
 - [tests](#tests)
 - [Questions](#Questions)
 
+![image](https://user-images.githubusercontent.com/63215148/89606280-64d00c80-d824-11ea-983a-2c7bb4aa7284.png)
 
 # Project_Description:
 Burger Devourer is a restaurant app that lets users input the burgers or sandwiches they'd like to eat. Each entry builds a list of the burgers with a corresponding button "Devour it!" that moves the burger to a new list which designates the burger as being "devoured." 
