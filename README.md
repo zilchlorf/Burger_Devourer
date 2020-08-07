@@ -2,8 +2,6 @@
 # Burger Devourer
 Link to live application: https://agile-ocean-45821.herokuapp.com 
 
-Link to my portfolio: https://zilchlorf.github.io/Max-William-Edmonds-Portfolio/
-
 Table of Contents:
         
 - [Project_Description](#Project_Description)
@@ -12,6 +10,7 @@ Table of Contents:
 - [contribute](#contribute)
 - [tests](#tests)
 - [Questions](#Questions)
+Link to my portfolio: https://zilchlorf.github.io/Max-William-Edmonds-Portfolio/
 
 ![image](https://user-images.githubusercontent.com/63215148/89606280-64d00c80-d824-11ea-983a-2c7bb4aa7284.png)
 
